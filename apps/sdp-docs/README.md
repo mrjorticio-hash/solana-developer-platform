@@ -236,4 +236,4 @@ The docs are published to https://platform.solana.com/docs
 
 ## Support
 
-- **Report issues**: GitHub Issues (tag with `docs`)
+- **Report issues**: GitHub Issues (tag with `docs`
